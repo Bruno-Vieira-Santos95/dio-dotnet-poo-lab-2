@@ -2,20 +2,6 @@
 
 ## Criando uma APP de cadastro em memória
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+Nessa atividade, o expert Eliézer Zarpelão demonstrou o passo a passo de como criar um simples cadastro de série utilizando .NET. O objeto era criar um CRUD onde realizava adição, atualização, exclusão de séries e como utilizar recursos de coleção para salvar seus dados em memória.
 
-## Contato
-
-Eliézer Zarpelão
-
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
-
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
-
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
-
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Meu Aprendizado: Esse projeto me ajudou a reforçar os conceito de POO, mas principalmente, como aplicá-lo no C# pois ele utiliza sintaxes diferente da liguagem Java, onde havia estudado anteriormente. Ajudou também a entender o CRUD que é algo simples e muito exigido no mercado. Me ajudou também a me habituar no universo .NET onde o Decola Tech tem me ajudado a descobrir.
